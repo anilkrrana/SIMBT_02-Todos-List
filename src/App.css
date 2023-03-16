@@ -4,7 +4,7 @@
 }
 
 .container {
-  background : linear-gradient(to right bottom, #bfb5b5, #342f2a);
+  background : linear-gradient(to right bottom, #e330fb, #ff8f1e);
   width: 100%;
   min-height: 100vh;
   display: flex;
@@ -13,7 +13,7 @@
 }
 
 .app-wrapper {
-  background-color: #43848b;
+  background-color: #6503cd;
   min-width: 450px;
   min-height: 650px;
   padding: 30px;
@@ -35,7 +35,7 @@
   margin-right: 25px;
   font-size: 20px;
   color: #000000;
-  background-color: #a59797;
+  background-color: #e9d9d9;
   border: 1px solid #231d16;
   border-radius: 10px;
 }
@@ -46,7 +46,7 @@
   font-size: 20px;
   border-radius: 10px;
   border: 0;
-  background-color: #b7b8b8;
+  background-color: #dff1f1;
   cursor: pointer;
 }
 
