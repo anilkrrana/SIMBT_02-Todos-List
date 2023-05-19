@@ -5,7 +5,7 @@ const TodosList = ({todos, setTodos, setEditTodo}) => {
     const handleComplete = (todo) => {
         setTodos(
             todos.map((item) => {
-                if(todo.id === todo.id) {
+                if(item.id === todo.id) {
                     return {...item, completed: !item.completed};
                 }
                 return item;
